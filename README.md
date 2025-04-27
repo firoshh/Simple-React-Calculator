@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Simple-React-Calculator
 
+=======
+>>>>>>> 24a34a8 (Initial commit with line endings handled)
 Simple Calculator App in React
 This project is a Simple Calculator built using React. It allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The app is responsive and easy to use.
 
@@ -21,6 +24,10 @@ bash
 Copy
 Edit
 git clone https://github.com/your-username/simple-calculator.git
+<<<<<<< HEAD
+=======
+
+>>>>>>> 24a34a8 (Initial commit with line endings handled)
 2. Install dependencies
 Navigate to the project folder and run:
 
@@ -84,4 +91,8 @@ Clear the current input
 
 Handle simple errors (e.g., invalid calculations)
 
+<<<<<<< HEAD
 Feel free to fork or clone this project and customize it further. If you encounter any issues or have suggestions for improvements, feel free to open an issue or pull request.
+=======
+Feel free to fork or clone this project and customize it further. If you encounter any issues or have suggestions for improvements, feel free to open an issue or pull request.
+>>>>>>> 24a34a8 (Initial commit with line endings handled)
